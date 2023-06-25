@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>692615805525-ru8j69bnk7ul6delk2uedjrq3i3a71vg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.692615805525-ru8j69bnk7ul6delk2uedjrq3i3a71vg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJIvSFE_2JJI-ytQvDBGybrA4D7WcBNts</string>
+	<key>GCM_SENDER_ID</key>
+	<string>692615805525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>BasheerAbdulmalik.ChattyChatters</string>
+	<key>PROJECT_ID</key>
+	<string>chattychatters-c39e1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chattychatters-c39e1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:692615805525:ios:130926d0566d5a0433b2dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://chattychatters-c39e1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
