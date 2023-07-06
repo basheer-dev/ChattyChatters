@@ -2,6 +2,7 @@
 
 - Chatty chatters is basically a social media app having some twitter/whatsApp vibes.
 - Once you launch the app you will be greeted by this window from which you can login or create a new account.
+- You can watch this video to know more about the project (THE VID IS AMIZING BY THE WAY) -> https://twitter.com/Basheer_dev/status/1672251302930264065
 
 ![Simulator Screen Recording - iPhone X - 2023-06-25 at 16 49 25](https://github.com/basheer-dev/ChattyChatters/assets/135429870/e6ec875c-ecec-4bc8-ad92-66a0c4b1b8cb)
 
